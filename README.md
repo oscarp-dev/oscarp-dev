@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hola, soy Oscar
 
-<!--
-**oscarp-dev/oscarp-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web junior.
+Trabajo en el desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript, PHP y SQL.
 
-Here are some ideas to get you started:
+He participado en proyectos reales y de prácticas, desarrollando funcionalidades frontend y backend, y gestionando bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologías
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+- Git & GitHub
+
+### 📌 Proyectos destacados
+- Web para barbero (proyecto con cliente)
+- Web de joyería (aplicación web desarrollada en prácticas)
+
+### 🎯 Objetivo
+Seguir creciendo como desarrollador web y participar en proyectos reales.
+
+
