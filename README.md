@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Oscar
 
-Soy desarrollador web junior.
+Soy desarrollador web.
 Trabajo en el desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript, PHP y SQL.
 
 He participado en proyectos reales y de prácticas, desarrollando funcionalidades frontend y backend, y gestionando bases de datos.
@@ -14,10 +14,18 @@ He participado en proyectos reales y de prácticas, desarrollando funcionalidade
 - Git & GitHub
 
 ### 📌 Proyectos destacados
-- Web para barbero (proyecto con cliente)
-- Web de joyería (aplicación web desarrollada en prácticas)
+
+-🛒 Carrito de Compras
+Implementación completa de la lógica en JavaScript puro: gestión de estado, renderizado dinámico y control de interacción.
+
+-💍 Web de Joyería
+Aplicación web full stack desarrollada como tienda online para una joyería.
+Incluye sistema completo de autenticación de usuarios, gestión de productos, carrito de compra y conexión a base de datos MariaDB.
+
+- 💈 Web para Barbero
+Web creada para un cliente real como carta de presentación digital, enfocada en visibilidad, claridad y conversión.
 
 ### 🎯 Objetivo
-Seguir creciendo como desarrollador web y participar en proyectos reales.
+Seguir creciendo como desarrollador web y participar en proyectos.
 
 
